@@ -21,7 +21,7 @@
 		<mybatis.spring.boot.starter.version>2.0.1</mybatis.spring.boot.starter.version>
 		<mybatis.plus.boot.starter.version>3.0.3</mybatis.plus.boot.starter.version>
 		<druid.spring.boot.starter.version>1.1.10</druid.spring.boot.starter.version>
-		<poi.version>3.17</poi.version>
+		<poi.version>4.1.1</poi.version>
 		<poi.ooxml.version>3.17</poi.ooxml.version>
 		<velocity.engine.core.version>2.0</velocity.engine.core.version>
 		<jsoup.version>1.9.2</jsoup.version>
